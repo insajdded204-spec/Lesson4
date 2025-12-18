@@ -1,4 +1,5 @@
-//конвертер валют(доллар/евро - рубли)
+//конвертер валют(доллар/евро - руб.)
+//currency converter (usd/euro - rub.)
 const usdToRub = (usd) => usd * 80;
 
 const euroToRub = (euro) => euro * 94;
